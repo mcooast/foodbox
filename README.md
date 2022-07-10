@@ -14,9 +14,8 @@ Final result - Web version:
 </div>
 
 Final result - Mobile version:
+
 <br>
 <div align="center">
-<img src="
-https://user-images.githubusercontent.com/87499710/178153146-816be5e4-bb67-41fc-83a0-aef2fbe2480c.gif" width="900px"/>
+<img src="https://user-images.githubusercontent.com/87499710/178153360-d7ba524d-7457-43a2-a890-4f8c7e35f39c.gif" width="900px"/>
 </div>
-
